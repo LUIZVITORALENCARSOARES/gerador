@@ -3,7 +3,7 @@ import {View, Text, StyleSheet} from 'react-native'
 export default function App(){
     return(
         <View>
-            Teste
+            <Text>Sujeito Programador</Text>
         </View>
     )
 }
